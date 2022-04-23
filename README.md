@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Kodladıklarım</h3>
 
 <p align="center>
-          <a href="https://www.instagram.com/fataygun50/"> 
+          <a href="https://www.instagram.com/fataygun50"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a> 
 <a href="https://www.linkedin.com/in/fatih-ayg%C3%BCn-628088b2/"> 
