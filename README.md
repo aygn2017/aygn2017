@@ -14,7 +14,6 @@ aygn2017/aygn2017 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <h1>Merhaba, Hoş Geldiniz! 👋 </h1>
 
 <p>Ben Fatih AYGÜN, Junior .Net Yazılım Geliştiriciyim.</p>
@@ -33,7 +32,3 @@ You can click the Preview link to take a look at your changes.
 <h3>Veri Tabanları</h3> 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-
-  
-  
-
