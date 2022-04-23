@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fatih-ayg%C3%BCn-628088b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-batuhan-özyürek" height="30" width="40" /></a>
-<a href="https://medium.com/@yasinbatuhanozyurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yasinbatuhanozyurek" height="30" width="40" /></a>
+<a href="https://medium.com/@aygn2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@FatihAYGÜN" height="30" width="40" /></a>
 
 </p>
 
